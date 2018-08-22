@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TerminalCardGame:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TerminalCardGame_jar</output-path>
+    <root id="archive" name="TerminalCardGame.jar">
+      <element id="module-output" name="TerminalCardGame" />
+    </root>
+  </artifact>
+</component>
